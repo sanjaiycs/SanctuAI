@@ -1,4 +1,4 @@
-fastapi>=0.68.0
-uvicorn>=0.15.0
-spacy>=3.0.0
-python-dateutil>=2.8.0
+flask
+spacy
+python-dotenv
+gunicorn==20.1.0  # Explicit version recommended
